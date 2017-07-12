@@ -1,7 +1,6 @@
 [x] 1 - what I should do now
 [x] 2 -what I should do now
 [x] 3 - what I should do now
-[x] 4 - what I should do now
+[ ] 4 - what I should do now
 [x] 5 - what I should do now
-[x] 6 - what I should do now
-[ ] 7 - what I should do now
+[ ] 6 - what I should do now
